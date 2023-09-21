@@ -6,3 +6,6 @@
 O evento acontecerá no meio/final do mês de setembro (2023) (ainda sem uma data de inicio e de finzalização já definida).
 
 ## ⌨️ | Como funciona?
+**O foco principal da rinha é montar um aplicativo (o tema e regras do aplicativo em sí serão definidas na data de inicialização do evento) seguindo todos os  requisitos vindos a partir das regras.**
+
+## 📓 | Regras gerais.
