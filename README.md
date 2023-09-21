@@ -14,5 +14,12 @@ O evento acontecerá no meio/final do mês de setembro (2023) (ainda sem uma dat
 
 + **Linguagem e Ferramentas**: Não há restrições quanto à linguagem de programação, framework ou ferramenta de desenvolvimento a serem utilizados. No entanto, o aplicativo desenvolvido deve ser capaz de rodar sem problemas no emulador do Android Studio.
 
+## 🖌️ | O que vai ser testado?
++ **Velocidade de execução.**
++ **Boas práticas em código.**
++ **Segurança do App e do banco de dados.**
++ ***Tamanho do aplicativo.**
+
+
 ## 📺 | Notas e reviews gerais.
 As reviews e notas dos aplicativos desenvolvidos serão transmitidas ao vivo no [meu canal da Twitch](https://twitch.tv/furyforev3r) em uma data a ser anunciada em breve (além das notas serem divulgadas nesse mesmo repositório).
