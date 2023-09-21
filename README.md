@@ -4,3 +4,5 @@
 > **Uma batalha de aplicativos feita no intuito de testar suas próprias capacidades e buscar evolução no ramo de desenvolvimento de aplicativos.**
 
 O evento acontecerá no meio/final do mês de setembro (2023) (ainda sem uma data de inicio e de finzalização já definida).
+
+## ⌨️ | Como funciona?
