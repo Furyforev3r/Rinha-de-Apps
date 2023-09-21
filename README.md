@@ -5,7 +5,14 @@
 
 O evento acontecerá no meio/final do mês de setembro (2023) (ainda sem uma data de inicio e de finzalização já definida).
 
-## ⌨️ | Como funciona?
-**O foco principal da rinha é montar um aplicativo (o tema e regras do aplicativo em sí serão definidas na data de inicialização do evento) seguindo todos os  requisitos vindos a partir das regras.**
-
 ## 📓 | Regras gerais.
++ **Objetivo**: O objetivo do evento é realizar uma batalha de aplicativos para testar as habilidades de desenvolvimento e promover a evolução no campo de desenvolvimento de aplicativos.
+
++ **Data do Evento**: O evento ocorrerá no meio/final do mês de setembro de 2023, com datas específicas de início e término a serem anunciadas posteriormente.
+
++ **Funcionamento**: O foco principal da rinha é desenvolver um aplicativo. O tema e as regras específicas do aplicativo serão anunciados na data de início do evento.
+
++ **Linguagem e Ferramentas**: Não há restrições quanto à linguagem de programação, framework ou ferramenta de desenvolvimento a serem utilizados. No entanto, o aplicativo desenvolvido deve ser capaz de rodar sem problemas no emulador do Android Studio.
+
+## 📺 | Notas e reviews gerais.
+As reviews e notas dos aplicativos desenvolvidos serão transmitidas ao vivo no [meu canal da Twitch](https://twitch.tv/furyforev3r) em uma data a ser anunciada em breve (além das notas serem divulgadas nesse mesmo repositório).
