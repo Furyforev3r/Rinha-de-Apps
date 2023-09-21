@@ -18,7 +18,7 @@ O evento acontecerá no meio/final do mês de setembro (2023) (ainda sem uma dat
 + **Velocidade de execução.**
 + **Boas práticas em código.**
 + **Segurança do App e do banco de dados.**
-+ ***Tamanho do aplicativo.**
++ **Tamanho do aplicativo.**
 
 
 ## 📺 | Notas e reviews gerais.
